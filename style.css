@@ -1,0 +1,28 @@
+#video{
+width:100%;
+height:500px;
+border:none;
+}
+
+.imgs{
+height: 500px;
+width: 500px;
+}
+
+.movie_head{
+border-radius:5px;
+}
+
+.movie_head i{
+float:right;
+}
+
+.new
+{
+   margin-bottom:20px;
+}
+
+#Contact iframe
+{
+    width:100%;
+}
